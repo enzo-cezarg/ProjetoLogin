@@ -1,1 +1,1 @@
-Este é um projeto de página de login desenvolvido por mim :)
+Este é um projeto de página de login responsiva desenvolvido por mim :)
